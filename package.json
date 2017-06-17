@@ -1,0 +1,22 @@
+{
+  "name": "apiless",
+  "version": "0.0.1",
+  "description": "This application will serve for the API of a web site",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/innossh/apiless.git"
+  },
+  "keywords": [
+    "API"
+  ],
+  "author": "innossh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/innossh/apiless/issues"
+  },
+  "homepage": "https://github.com/innossh/apiless#readme"
+}
